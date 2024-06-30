@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    font-size: 20px;
+    font-weight: 300;
+    text-align: justify;
+}
+
+body {
+    font-family: "Source serif 4", sans-serif;
+    background-color: #FFE2E2;
+    padding: 50px 30px;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 2.25rem;
+    text-align: center;
+}
+
+p {
+    margin: 20px 0;
+}
+
+.flowers {
+    font-size: 1.1 rem;
+    font-style: italic;
+    font-weight: 400;
+}
+
+div {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.books {
+    font-size: 1.25rem;
+    font-weight: 400;
+    text-decoration: underline;
+}
+
+img {
+    margin: 10px 25px 0;
+}
+
+.conclusion {
+    color: rgb(81, 5, 21);
+    font-style: italic;
+    text-align: center;
+}
